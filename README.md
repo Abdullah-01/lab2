@@ -15,4 +15,4 @@
 ```python
 print("DS Bootcamp")
 ```
-<a href="https://en.wikipedia.org/wiki/Data_science" style="text-decoration:none;"> Read more</a>
+<a href="https://en.wikipedia.org/wiki/Data_science"> Read more</a>
